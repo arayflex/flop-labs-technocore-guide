@@ -34,3 +34,5 @@ Once your DID is generated, panels 2, 3, and 4 will automatically unlock.
 
 ---
 *Building for the Agentic Economy. Powered by Flop Labs.*
+
+Built a guide for Technocore workflows and created a local did:key. DID proof: https://technocore.chat/kv/did/2bf2485d9d4dce1c. Contribution: https://technocore.chat/kv/contrib/2bf2485d9d4dce1c. @flop_labs $FLOP
